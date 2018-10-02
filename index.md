@@ -1,5 +1,3 @@
-# Kei Akuzawa
-
 ## Conference Papers
 
 ### International
@@ -14,6 +12,6 @@
 - 阿久澤圭: 人的資本理論から見た転職期待と学業行動，2017年度東京大学経済学部卒業論文，(***特選論文賞***)
 
 ## About Me
-Graduated from Faculty of Economics, The University of Tokyo in 2017. \
-Graduate Student in School of Engineering, The University of Tokyo. \
+Graduated from Faculty of Economics, The University of Tokyo in 2017.  
+Graduate Student in School of Engineering, The University of Tokyo.  
 Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/)
