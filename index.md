@@ -7,8 +7,8 @@ title: Kei Akuzawa's Homepage
 I'm a PhD student at The University ot Tokyo since 2019, working on artificial intelligence and machine learning.
 Specifically, I'm passionate about transfer learning and sequential models with Deep Learning.  
 Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
-Graduated from Faculty of Economics, The University of Tokyo in 2017.  
-Graduated from School of Engineering, The University of Tokyo in 2019.  
+Got a bachelor's degree in economics from The University of Tokyo in 2017.  
+Got a master's degree in engineering from The University of Tokyo in 2019.  
 
 ## Conference Papers
 
