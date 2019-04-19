@@ -12,14 +12,18 @@ Got a master's degree in engineering from The University of Tokyo in 2019.
 
 ## Conference Papers
 
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Expressive Speech Synthesis via Modeling Expressions by Variational Autoencoder, Interspeech, 2018
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Expressive Speech Synthesis via Modeling Expressions by Variational Autoencoder. Interspeech, 2018
   - [arxiv](https://arxiv.org/abs/1804.02135)
   - [Demo](https://www.kakuzawa.com/VAELoopDemo/)
-- Shohei Ohsawa, **Kei Akuzawa**, Tatsuya Matsushima, Gustavo Bezerra, Yusuke Iwasawa, Hiroshi Kajino, Seiya Takenaka, Yutaka Matsuo: Neuron as an Agent, International Conference of Learning Representation (ICLR18) Workshop (Invitation), 2018
+
+## Workshop Papers
+- Shohei Ohsawa, **Kei Akuzawa**, Tatsuya Matsushima, Gustavo Bezerra, Yusuke Iwasawa, Hiroshi Kajino, Seiya Takenaka, Yutaka Matsuo. Neuron as an Agent. International Conference of Learning Representation (ICLR18) Workshop (Invitation), 2018
   - [openreview](https://openreview.net/forum?id=SkcLNJJwf)
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Feature Learning under Accuracy Constraint for Domain Generalization. International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 2019
+  - [openreview](https://openreview.net/forum?id=Hkxj_LpvvV)
 
 ## Work in progress
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization
   - arxiv \[coming soon\]
   - [code](https://github.com/akuzeee/AFLAC/)
 
