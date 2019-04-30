@@ -6,9 +6,9 @@ title: Kei Akuzawa's Homepage
 ## About Me
 I'm a PhD student at The University ot Tokyo since 2019, working on artificial intelligence and machine learning.
 Specifically, I'm passionate about transfer learning and sequential models with Deep Learning.  
-Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
-Got a bachelor's degree in economics from The University of Tokyo in 2017.  
-Got a master's degree in engineering from The University of Tokyo in 2019.  
+- Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
+- 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
+- 2017 B.A. (Economics) Department of Economics, University of Tokyo  
 
 ## Conference Papers
 
@@ -27,9 +27,11 @@ Got a master's degree in engineering from The University of Tokyo in 2019.
   - [arxiv](https://arxiv.org/abs/1904.12543)
   - [code](https://github.com/akuzeee/AFLAC/)
 
-## Others
-- [Slides in paper reading club (Japanese Only)](slide-jp)
+## Awards
 - Student Incentive Award at The Japanese Society for Artificial Intelligence (2018)
   - **阿久澤圭**，岩澤有祐，松尾豊: 変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成，人工知能学会全国大会(第32回)，2018
 - Bachelor thesis selected for Specially Selected Paper at the department of economics, The University of Tokyo (2017) 
   - 阿久澤圭: 人的資本理論から見た転職期待と学業行動，2017年度東京大学経済学部卒業論文
+  
+ 
+## [Slides in paper reading club (Japanese Only)](slide-jp)
