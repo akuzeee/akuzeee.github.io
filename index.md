@@ -24,7 +24,7 @@ Got a master's degree in engineering from The University of Tokyo in 2019.
 
 ## Work in progress
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization
-  - arxiv \[coming soon\]
+  - [arxiv](https://arxiv.org/abs/1904.12543)
   - [code](https://github.com/akuzeee/AFLAC/)
 
 ## Others
