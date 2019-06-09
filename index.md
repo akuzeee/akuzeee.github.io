@@ -12,7 +12,10 @@ Specifically, I'm passionate about transfer learning and sequential models with 
 
 ## Conference Papers
 
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Expressive Speech Synthesis via Modeling Expressions by Variational Autoencoder. Interspeech, 2018
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization. ECML PKDD, 2019. (130 / 734, acceptance rate 18%)
+  - [arxiv(preprint)](https://arxiv.org/abs/1904.12543)
+  - [code](https://github.com/akuzeee/AFLAC/)
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Expressive Speech Synthesis via Modeling Expressions by Variational Autoencoder. Interspeech, 2018.
   - [arxiv](https://arxiv.org/abs/1804.02135)
   - [Demo](https://www.kakuzawa.com/VAELoopDemo/)
 
@@ -25,9 +28,6 @@ Specifically, I'm passionate about transfer learning and sequential models with 
   - [openreview](https://openreview.net/forum?id=SkcLNJJwf)
 
 ## Preprints
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization
-  - [arxiv](https://arxiv.org/abs/1904.12543)
-  - [code](https://github.com/akuzeee/AFLAC/)
 
 ## Awards
 - Student Incentive Award at The Japanese Society for Artificial Intelligence (2018)
