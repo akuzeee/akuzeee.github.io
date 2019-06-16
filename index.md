@@ -30,10 +30,8 @@ Specifically, I'm passionate about transfer learning and sequential models with 
 ## Preprints
 
 ## Awards
-- Student Incentive Award at The Japanese Society for Artificial Intelligence (2018)
-  - **阿久澤圭**，岩澤有祐，松尾豊: 変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成，人工知能学会全国大会(第32回)，2018
-- Bachelor thesis selected for Specially Selected Paper at the department of economics, The University of Tokyo (2017)
-  - 阿久澤圭: 人的資本理論から見た転職期待と学業行動，2017年度東京大学経済学部卒業論文
+- Student Incentive Award, The Japanese Society for Artificial Intelligence, 2018.
+- Specially Selected Bachelor Thesis, the department of economics, The University of Tokyo, 2017.
 
-
-## [Slides in paper reading club (Japanese Only)](slide-jp)
+## Other Works
+- [Slides in paper reading club (Japanese Only)](slide-jp)
