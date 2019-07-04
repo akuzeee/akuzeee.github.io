@@ -5,9 +5,9 @@ title: Kei Akuzawa's Homepage
 
 ## About Me
 I'm a PhD student at The University ot Tokyo since 2019, working on artificial intelligence and machine learning.
-Specifically, I'm passionate about transfer learning and sequential models with Deep Learning.  
+Specifically, I'm passionate about sequential generative models and transfer learning with Deep Learning.  
 - Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
-- 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
+- 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo  
 - 2017 B.A. (Economics) Department of Economics, University of Tokyo  
 
 ## Conference Papers
@@ -27,9 +27,8 @@ Specifically, I'm passionate about transfer learning and sequential models with 
 - Shohei Ohsawa, **Kei Akuzawa**, Tatsuya Matsushima, Gustavo Bezerra, Yusuke Iwasawa, Hiroshi Kajino, Seiya Takenaka, Yutaka Matsuo. Neuron as an Agent. International Conference of Learning Representation (ICLR18) Workshop, 2018. (Invitation)
   - [openreview](https://openreview.net/forum?id=SkcLNJJwf)
 
-## Preprints
-
-## Awards
+## Awards and Grants
+- Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2019 - Mar. 2020
 - Student Incentive Award, The Japanese Society for Artificial Intelligence, 2018.
 - Specially Selected Bachelor Thesis, the department of economics, The University of Tokyo, 2017.
 
