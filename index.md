@@ -1,5 +1,5 @@
 ---
-title: Kei Akuzawa's Homepage（阿久澤圭のHP）
+title: Kei Akuzawa's Homepage
 ---
 
 
