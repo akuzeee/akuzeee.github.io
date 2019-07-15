@@ -1,6 +1,5 @@
 ---
-layout: en
-title: Kei Akuzawa's Homepage
+title: Kei Akuzawa's Homepage（阿久澤圭のHP）
 ---
 
 
