@@ -38,7 +38,7 @@ title: 阿久澤圭のHP
 ## Awards and Grants
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2019 - Mar. 2020
 - Student Incentive Award, The Japanese Society for Artificial Intelligence, 2018.
-- Specially Selected Bachelor Thesis, the department of economics, The University of Tokyo, 2017.
+- Specially Selected Bachelor Thesis Award from the department of economics, The University of Tokyo, 2017.
 
 
 ## その他
