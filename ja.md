@@ -27,8 +27,6 @@ title: 阿久澤圭のHP
   - [openreview](https://openreview.net/forum?id=Hkxj_LpvvV)
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Invariant Feature Learning by Attribute Perception Matching. International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 2019.
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
-- Shohei Ohsawa, **Kei Akuzawa**, Tatsuya Matsushima, Gustavo Bezerra, Yusuke Iwasawa, Hiroshi Kajino, Seiya Takenaka, Yutaka Matsuo. Neuron as an Agent. International Conference of Learning Representation (ICLR18) Workshop, 2018. (Invitation)
-  - [openreview](https://openreview.net/forum?id=SkcLNJJwf)
 
 
 ## 国内会議論文
