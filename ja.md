@@ -29,9 +29,11 @@ title: 阿久澤圭のHP
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
 
 
-## 国内会議論文
-- TBA
-
+## 国内会議論文(査読なし)
+- 阿久澤圭，岩澤有祐，松尾豊．大域的な潜在変数を持つ系列変分自己符号化器による状態遷移モデルのメタ学習．第22回情報論的学習理論ワークショップ(IBIS2019)(ポスター発表)，2019．
+- 阿久澤圭，岩澤有祐，松尾豊．分類性能による制約を考慮した敵対的不変表現学習によるドメイン汎化．2019年度人工知能学会全国大会，2019．[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1Q4J203/_article/-char/ja)．
+- 岩澤有祐，阿久澤圭，松尾豊．ペアワイズニューラルネット距離による不変表現学習．2019年度人工知能学会全国大会，2019．[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1I4J202/_article/-char/ja/)．
+- 阿久澤圭，岩澤有祐，松尾豊．変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成．2018年度人工知能学会全国大会，2018．[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_2N101/_article/-char/ja/)．
 
 ## Awards and Grants
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2019 - Mar. 2020
