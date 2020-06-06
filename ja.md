@@ -18,6 +18,9 @@ title: 阿久澤圭のHP
 
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Expressive speech synthesis via modeling expressions by variational autoencoder, in Proc. Interspeech2018, 論文番号なし, Hyderabard，India, September, 2018（口頭，査読あり） \[[arxiv](https://arxiv.org/abs/1804.02135), [Demo](https://www.kakuzawa.com/VAELoopDemo/)\]
 
+## ジャーナル論文
+- Yuki Saito, Kei Akuzawa, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
+
 
 ## ワークショップ論文
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Feature Learning under Accuracy Constraint for Domain Generalization. 7th International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 論文番号なし, New Orleans, the USA, May, 2019 （ポスター，査読あり） \[[openreview](https://openreview.net/forum?id=Hkxj_LpvvV)\]
@@ -34,7 +37,9 @@ title: 阿久澤圭のHP
 
 - 阿久澤圭，岩澤有祐，松尾豊，変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成，人工知能学会全国大会(第32回)，口頭発表番号2N1-01，鹿児島，6月，2018年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_2N101/_article/-char/ja/)\]
 
+
 ## 受賞歴等
+- 特別研究員-DC2．2020年4月(-2022年3月)
 - トヨタ・ドワンゴ高度人工知能人材奨学金．2019年．
 - 人工知能学会全国大会(第32回)学生奨励賞．2018年
 - 東京大学経済学部卒業論文特選論文賞．2017年

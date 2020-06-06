@@ -19,6 +19,9 @@ Specifically, I'm passionate about sequential generative models and transfer lea
   - [arxiv](https://arxiv.org/abs/1804.02135)
   - [Demo](https://www.kakuzawa.com/VAELoopDemo/)
 
+## Journal Papers
+- Yuki Saito, **Kei Akuzawa**, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
+
 ## Workshop Papers
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Feature Learning under Accuracy Constraint for Domain Generalization. International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 2019. (spotlight, 22/66)
   - [openreview](https://openreview.net/forum?id=Hkxj_LpvvV)
@@ -26,6 +29,7 @@ Specifically, I'm passionate about sequential generative models and transfer lea
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
 
 ## Awards and Grants
+- Grant-in-Aid for JSPS Research Fellow, the Japan Society of the Promotion of Science (JSPS), Apr. 2020 - (Mar. 2022).
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2019 - Mar. 2020
 - Student Incentive Award, The Japanese Society for Artificial Intelligence, 2018.
 - Specially Selected Bachelor Thesis Award, from the department of economics, The University of Tokyo, 2017.
