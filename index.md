@@ -29,7 +29,8 @@ Specifically, I'm passionate about sequential generative models and transfer lea
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
 
 ## Awards and Grants
-- Grant-in-Aid for JSPS Research Fellow, the Japan Society of the Promotion of Science (JSPS), Apr. 2020 - (Mar. 2022).
+- Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2020 - Mar. 2021
+- Grant-in-Aid for JSPS Research Fellow, the Japan Society of the Promotion of Science (JSPS), Apr. 2020 - Mar. 2022.
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2019 - Mar. 2020
 - Student Incentive Award, The Japanese Society for Artificial Intelligence, 2018.
 - Specially Selected Bachelor Thesis Award, from the department of economics, The University of Tokyo, 2017.
