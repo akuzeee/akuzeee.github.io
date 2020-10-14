@@ -12,6 +12,7 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 
 ## Conference Papers
 
+- Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Stabilizing Adversarial Invariance Induction from Divergence Minimization Perspective. In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization. ECML PKDD, 2019. (130 / 734, acceptance rate 18%)
   - [arxiv(preprint)](https://arxiv.org/abs/1904.12543)
   - [code](https://github.com/akuzeee/AFLAC/)
