@@ -27,6 +27,9 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Invariant Feature Learning by Attribute Perception Matching. International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 2019.
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
 
+## Lecture
+- 2020. University of Tokyo, Graduate School of Engineering. "Deeplearning".
+
 ## Awards and Grants
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2020 - Mar. 2021
 - Grant-in-Aid for JSPS Research Fellow, the Japan Society of the Promotion of Science (JSPS), Apr. 2020 - Mar. 2022.
