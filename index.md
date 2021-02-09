@@ -28,7 +28,7 @@ Specifically, I'm passionate about sequential generative models and transfer lea
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
 
 ## Lecture
-- 2020. University of Tokyo, Graduate School of Engineering. "Deeplearning".
+- 2020 University of Tokyo, Graduate School of Engineering. "Deeplearning".
 
 ## Awards and Grants
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2020 - Mar. 2021
