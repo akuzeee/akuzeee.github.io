@@ -4,7 +4,7 @@ title: Kei Akuzawa's Homepage
 
 
 ## About Me
-I'm a PhD student at The University ot Tokyo since 2019, working on artificial intelligence and machine learning.
+I'm a PhD student at The University of Tokyo since 2019, working on artificial intelligence and machine learning.
 Specifically, I'm passionate about sequential generative models and transfer learning with Deep Learning.  
 - Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
 - 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo  
