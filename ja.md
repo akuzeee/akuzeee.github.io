@@ -14,6 +14,8 @@ title: 阿久澤圭のHP
 
 ## 国際会議論文
 
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, 2021.
+
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Stabilizing Adversarial Invariance Induction from Divergence Minimization Perspective. In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 論文番号278, Würzburg, Germany, September, 2019（口頭とポスター，査読あり） \[[arxiv(preprint)](https://arxiv.org/abs/1904.12543), [code](https://github.com/akuzeee/AFLAC/)\]
