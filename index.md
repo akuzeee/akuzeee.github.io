@@ -12,7 +12,7 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 
 ## Conference Papers
 
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, 2021.
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, 2021. \[[arxiv](https://arxiv.org/abs/2105.06660)\].
 
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Stabilizing Adversarial Invariance Induction from Divergence Minimization Perspective. In Proc. of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 
