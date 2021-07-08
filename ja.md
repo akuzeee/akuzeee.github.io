@@ -23,7 +23,7 @@ title: 阿久澤圭のHP
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Expressive speech synthesis via modeling expressions by variational autoencoder, in Proc. Interspeech2018, 論文番号なし, Hyderabard，India, September, 2018（口頭，査読あり） \[[arxiv](https://arxiv.org/abs/1804.02135), [Demo](https://www.kakuzawa.com/VAELoopDemo/)\]
 
 ## ジャーナル論文
-- - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. “Information-theoretic regularization for learning global features by sequential VAE”, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. “Information-theoretic regularization for learning global features by sequential VAE”, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
 - Yuki Saito, Kei Akuzawa, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
 
 
