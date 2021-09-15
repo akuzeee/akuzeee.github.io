@@ -24,7 +24,7 @@ title: 阿久澤圭のHP
 
 ## ジャーナル論文
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. “Information-theoretic regularization for learning global features by sequential VAE”, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
-- Yuki Saito, Kei Akuzawa, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
+- Yuki Saito, **Kei Akuzawa**, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
 
 
 ## ワークショップ論文
