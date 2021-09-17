@@ -12,7 +12,9 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 
 ## Conference Papers
 
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, 2021. \[[arxiv](https://arxiv.org/abs/2105.06660)\].
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Information-theoretic regularization for learning global features by sequential VAE. In Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, online, September, 2021.
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, online, 2021. \[[arxiv](https://arxiv.org/abs/2105.06660)\].
 
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Stabilizing Adversarial Invariance Induction from Divergence Minimization Perspective. In Proc. of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 
@@ -21,7 +23,7 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Expressive speech synthesis via modeling expressions by variational autoencoder, in Proc. Interspeech2018, Hyderabard，India, September, 2018 \[[arxiv](https://arxiv.org/abs/1804.02135), [Demo](https://www.kakuzawa.com/VAELoopDemo/)\].
 
 ## Journal Papers
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. “Information-theoretic regularization for learning global features by sequential VAE”, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Information-theoretic regularization for learning global features by sequential VAE, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
 - Yuki Saito, **Kei Akuzawa**, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
 
 ## Workshop Papers
