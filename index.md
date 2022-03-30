@@ -12,6 +12,8 @@ Specifically, I'm passionate about sequential generative models and transfer lea
 
 ## Conference Papers
 
+- **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
+
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Information-theoretic regularization for learning global features by sequential VAE. In Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, online, September, 2021.
 
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Estimating Disentangled Belief about Hidden State and Hidden Task for Meta-Reinforcement Learning. In Proc. of the Third Learning for Dynamics and Control (L4DC) Conference, online, 2021. \[[arxiv](https://arxiv.org/abs/2105.06660)\].
