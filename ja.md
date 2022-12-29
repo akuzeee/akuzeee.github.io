@@ -5,14 +5,15 @@ title: 阿久澤圭のHP
 # 阿久澤圭
 
 ## 自己紹介
-東京大学の博士学生（2019〜）で，人工知能の研究を行なっています．  
-特に，深層学習を用いた系列生成モデルや転移学習の研究を通して，継続的に学ぶエージェントを開発することに興味があります.  
-- 所属: [松尾研究室](https://weblab.t.u-tokyo.ac.jp/).
+深層学習とその応用を専門とするリサーチサイエンティストで，現在株式会社ACESで働いています．
+- 2022 東京大学 大学院工学系研究科 技術経営戦略学専攻 博士課程 卒業（[松尾研究室](https://weblab.t.u-tokyo.ac.jp/)）
 - 2019 東京大学 大学院工学系研究科 技術経営戦略学専攻 修士課程 卒業
 - 2017 東京大学 経済学部 経済学科 卒業
 
 
 ## 国際会議論文
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. arXiv preprint (TBA).
 
 - **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
 

@@ -4,13 +4,15 @@ title: Kei Akuzawa's Homepage
 
 
 ## About Me
-I'm a PhD student at The University of Tokyo since 2019, working on artificial intelligence and machine learning.
-Specifically, I'm passionate about sequential generative models and transfer learning with Deep Learning.  
-- Belong to [Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/).  
-- 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo  
-- 2017 B.A. (Economics) Department of Economics, University of Tokyo  
+A research scientist working at ACES, Inc.
+I'm passionate about deep learning and its applications.
+- 2022 Pd.D. (Engineering) Graduate School of Engineering, University of Tokyo ([Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/))
+- 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
+- 2017 B.A. (Economics) Department of Economics, University of Tokyo
 
 ## Conference Papers
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. arXiv preprint (TBA).
 
 - **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
 
