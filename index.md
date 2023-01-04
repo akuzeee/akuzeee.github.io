@@ -12,7 +12,7 @@ I'm passionate about deep learning and its applications.
 
 ## Conference Papers
 
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. arXiv preprint (TBA).
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
 
 - **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
 
