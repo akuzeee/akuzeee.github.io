@@ -6,7 +6,7 @@ title: Kei Akuzawa's Homepage
 ## About Me
 A research scientist working at ACES, Inc.
 I'm passionate about deep learning and its applications.
-- 2022 Pd.D. (Engineering) Graduate School of Engineering, University of Tokyo ([Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/))
+- 2022 Ph.D. (Engineering) Graduate School of Engineering, University of Tokyo ([Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/))
 - 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
 - 2017 B.A. (Economics) Department of Economics, University of Tokyo
 
