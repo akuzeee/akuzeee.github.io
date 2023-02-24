@@ -11,9 +11,12 @@ title: 阿久澤圭のHP
 - 2017 東京大学 経済学部 経済学科 卒業
 
 
-## 国際会議論文
+## Preprint
 
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
+
+
+## 国際会議論文
 
 - **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
 
