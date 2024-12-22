@@ -4,15 +4,12 @@ title: Kei Akuzawa's Homepage
 
 
 ## About Me
-A research scientist working at ACES, Inc.
+A researcher / engineer working at ACES, Inc.
 I'm passionate about deep learning and its applications.
+- 2022 (-now) [ACES, Inc.](https://acesinc.co.jp/)
 - 2022 Ph.D. (Engineering) Graduate School of Engineering, University of Tokyo ([Yutaka Matsuo’s Lab](https://weblab.t.u-tokyo.ac.jp/en/))
 - 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
 - 2017 B.A. (Economics) Department of Economics, University of Tokyo
-
-## Preprint
-
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
 
 ## Conference Papers
 
@@ -37,6 +34,10 @@ I'm passionate about deep learning and its applications.
   - [openreview](https://openreview.net/forum?id=Hkxj_LpvvV)
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Invariant Feature Learning by Attribute Perception Matching. International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 2019.
   - [openreview](https://openreview.net/forum?id=r1ew74mluN)
+
+## Preprint
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
 
 ## Lecture
 - 2020 University of Tokyo, Graduate School of Engineering. "Deeplearning", lecturer in the 2nd class.

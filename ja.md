@@ -5,15 +5,11 @@ title: 阿久澤圭のHP
 # 阿久澤圭
 
 ## 自己紹介
-深層学習とその応用を専門とするリサーチサイエンティストで，現在株式会社ACESで働いています．
+深層学習とその応用を専門とするリサーチャー/エンジニアです．
+- 2022-現在 ACES[株式会社ACES](https://acesinc.co.jp/)
 - 2022 東京大学 大学院工学系研究科 技術経営戦略学専攻 博士課程 卒業（[松尾研究室](https://weblab.t.u-tokyo.ac.jp/)）
 - 2019 東京大学 大学院工学系研究科 技術経営戦略学専攻 修士課程 卒業
 - 2017 東京大学 経済学部 経済学科 卒業
-
-
-## Preprint
-
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
 
 
 ## 国際会議論文
@@ -53,6 +49,11 @@ title: 阿久澤圭のHP
 - 岩澤有祐，阿久澤圭，松尾豊，ペアワイズニューラルネット距離による不変表現学習，人工知能学会全国大会(第33回)，口頭発表番号1I4-J-2-02，新潟，6月，2019年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1I4J202/_article/-char/ja/)\]
 
 - 阿久澤圭，岩澤有祐，松尾豊，変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成，人工知能学会全国大会(第32回)，口頭発表番号2N1-01，鹿児島，6月，2018年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_2N101/_article/-char/ja/)\]
+
+
+## Preprint
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
 
 
 ## 講義
