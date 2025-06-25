@@ -12,7 +12,11 @@ title: 阿久澤圭のHP
 - 2017 東京大学 経済学部 経済学科 卒業
 
 
-## 国際会議論文
+## 論文
+
+### 国際会議論文
+
+- Arakawa, Riku, Yakura, Hiromu, **Akuzawa, Kei**, & Kubo, Shizuma (2025, April). AI for Meeting Minutes: Promises and Challenges in Designing Human-AI Collaboration on a Production SaaS Platform. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems.
 
 - **Kei Akuzawa**, Kotaro Onishi, Keisuke Takiguchi, Kohki Mametani, Koichiro Mori. Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. APSIPA ASC, December, 2021.
 
@@ -26,16 +30,23 @@ title: 阿久澤圭のHP
 
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo, Expressive speech synthesis via modeling expressions by variational autoencoder, in Proc. Interspeech2018, 論文番号なし, Hyderabard，India, September, 2018（口頭，査読あり） \[[arxiv](https://arxiv.org/abs/1804.02135), [Demo](https://www.kakuzawa.com/VAELoopDemo/)\]
 
-## ジャーナル論文
+
+### ジャーナル論文
 - **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Information-theoretic regularization for learning global features by sequential VAE, Mach Learn (2021). https://doi.org/10.1007/s10994-021-06032-4
 - Yuki Saito, **Kei Akuzawa**, and Kentaro Tachibana, "Joint adversarial training of speech recognition and synthesis models for many-to-one voice conversion using phonetic posteriorgrams," IEICE Transactions on Information and Systems, Vol. 103-D, No. 9, pp. xxx--xxx, Sep. 2020. (ACCEPTED)
 
 
-## ワークショップ論文
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Feature Learning under Accuracy Constraint for Domain Generalization. 7th International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 論文番号なし, New Orleans, the USA, May, 2019 （ポスター，査読あり） \[[openreview](https://openreview.net/forum?id=Hkxj_LpvvV)\]
+### ワークショップ論文
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Adversarial Feature Learning under Accuracy Constraint for Domain Generalization. 7th International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 論文番号なし, New Orleans, the USA, May, 2019 （ポスター，査読あり，spotlight採択 22/66） \[[openreview](https://openreview.net/forum?id=Hkxj_LpvvV)\]
 
 - Yusuke Iwasawa, **Kei Akuzawa**, Yutaka Matsuo. Invariant Feature Learning by Attribute Perception Matching. 7th International Conference of Learning Representation (ICLR19) Limited Label Data Workshop, 論文番号なし, New Orleans, the USA, May, 2019 （ポスター，査読あり） \[[openreview](https://openreview.net/forum?id=r1ew74mluN)\]
 
+### Preprint
+
+- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
+
+
+## その他（国内）
 
 ## 国内会議論文(査読なし)
 - 阿久澤圭，岩澤 有祐，松尾 豊．ナビゲーション課題における視覚と言語の対応づけのための軌道の大域表現の半教師あり学習．人工知能学会全国大会（第35回），口頭発表番号4G2-GS-2k-02，Online，6月，2021年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_4G2GS2k02/_article/-char/ja/)\]
@@ -51,16 +62,11 @@ title: 阿久澤圭のHP
 - 阿久澤圭，岩澤有祐，松尾豊，変分自己符号化器を用いた表現の多様性のモデル化による表現豊かな音声合成，人工知能学会全国大会(第32回)，口頭発表番号2N1-01，鹿児島，6月，2018年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_2N101/_article/-char/ja/)\]
 
 
-## Preprint
-
-- **Kei Akuzawa**, Yusuke Iwasawa, Yutaka Matsuo. Multimodal Sequential Generative Models for Semi-Supervised Language Instruction Following. [arXiv preprint](https://arxiv.org/abs/2301.00676).
-
-
-## 講義
+### 講義
 - 2020年度．東京大学大学院工学系研究科授業「深層学習」．講師（第二回講義）
 
 
-## 受賞歴等
+### 受賞歴等
 - トヨタ・ドワンゴ高度人工知能人材奨学金．2020年
 - 特別研究員-DC2．2020年4月(-2022年3月)
 - トヨタ・ドワンゴ高度人工知能人材奨学金．2019年
@@ -70,11 +76,9 @@ title: 阿久澤圭のHP
 - 東京大学経済学部卒業論文特選論文賞．2017年
 
 
-## 学術雑誌等又は商業誌における解説、総説
-- 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
-- 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
-- 阿久澤圭．双方向の“対話”でタスクをこなす　人と協働するロボットの研究．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
-
-
-## その他
+### 書き物
+- 日経XTREND
+  - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
+  - 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
+  - 阿久澤圭．双方向の“対話”でタスクをこなす　人と協働するロボットの研究．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
 - [論文読み会発表資料](slide-jp)
