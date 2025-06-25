@@ -11,6 +11,7 @@ title: 阿久澤圭のHP
 - 2019 東京大学 大学院工学系研究科 技術経営戦略学専攻 修士課程 卒業
 - 2017 東京大学 経済学部 経済学科 卒業
 
+[LinkedIn](https://www.linkedin.com/in/kakuzawa/)
 
 ## 論文
 
@@ -80,5 +81,5 @@ title: 阿久澤圭のHP
 - 日経XTREND
   - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
   - 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
-  - 阿久澤圭．双方向の“対話”でタスクをこなす　人と協働するロボットの研究．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
+  - 阿久澤圭．双方向の"対話"でタスクをこなす　人と協働するロボットの研究．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
 - [論文読み会発表資料](slide-jp)

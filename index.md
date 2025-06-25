@@ -11,6 +11,8 @@ I'm passionate about deep learning and its applications.
 - 2019 M.S. (Engineering) Graduate School of Engineering, University of Tokyo
 - 2017 B.A. (Economics) Department of Economics, University of Tokyo
 
+[LinkedIn](https://www.linkedin.com/in/kakuzawa/)
+
 ## Papers
 
 ### Conference Papers
