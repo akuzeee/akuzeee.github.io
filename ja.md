@@ -49,7 +49,7 @@ title: 阿久澤圭のHP
 
 ## その他（国内）
 
-## 国内会議論文(査読なし)
+### 国内会議論文(査読なし)
 - 阿久澤圭，岩澤 有祐，松尾 豊．ナビゲーション課題における視覚と言語の対応づけのための軌道の大域表現の半教師あり学習．人工知能学会全国大会（第35回），口頭発表番号4G2-GS-2k-02，Online，6月，2021年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_4G2GS2k02/_article/-char/ja/)\]
 
 - 阿久澤圭，岩澤有祐，松尾豊，Posterior Collapseの情報識別可能性による解釈と条件付き相互情報量最大化を用いた対策，人工知能学会全国大会(第34回)，口頭発表番号2D4-OS-18a-05，Online，6月，2020年（口頭，査読なし） \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2D4OS18a05/_article/-char/ja/)\]
