@@ -85,6 +85,9 @@ title: 阿久澤圭のHP
 
 
 ### 書き物
+- はてな
+  - [AIエンジニアのR&Dが事業に届くまで](https://tech.acesinc.co.jp/entry/2025/07/15/080000)
+- [zenn](https://zenn.dev/k99758)
 - 日経XTREND
   - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
   - 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
