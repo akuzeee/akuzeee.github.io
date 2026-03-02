@@ -85,8 +85,7 @@ I'm passionate about deep learning and its applications.
 - **特開2020-190605**（特許権-株式会社ディー・エヌ・エー）：音声処理装置及び音声処理プログラム（特願2019-095103、2019年5月21日出願、2020年11月26日公知）
 
 ### Writings
-- はてな
-  - [AIエンジニアのR&Dが事業に届くまで](https://tech.acesinc.co.jp/entry/2025/07/15/080000)
+- [はてな](https://tech.acesinc.co.jp/archive/author/akuzeee)
 - [zenn](https://zenn.dev/k99758)
 - Nikkei XTREND
   - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]

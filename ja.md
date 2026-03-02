@@ -85,8 +85,7 @@ title: 阿久澤圭のHP
 
 
 ### 書き物
-- はてな
-  - [AIエンジニアのR&Dが事業に届くまで](https://tech.acesinc.co.jp/entry/2025/07/15/080000)
+- [はてな](https://tech.acesinc.co.jp/archive/author/akuzeee)
 - [zenn](https://zenn.dev/k99758)
 - 日経XTREND
   - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
