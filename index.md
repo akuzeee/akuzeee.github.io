@@ -84,11 +84,8 @@ I'm passionate about deep learning and its applications.
 - **特開2023-005191**（特許権-株式会社ディー・エヌ・エー; 発明主担当）：音声処理学習プログラム、音声処理学習装置、音声処理学習方法、音声処理プログラム、音声処理装置及び音声処理方法（特願2021-106955、2021年6月28日出願、2023年1月18日公知）
 - **特開2020-190605**（特許権-株式会社ディー・エヌ・エー）：音声処理装置及び音声処理プログラム（特願2019-095103、2019年5月21日出願、2020年11月26日公知）
 
-### Writings
-- [はてな](https://tech.acesinc.co.jp/archive/author/akuzeee)
+### Writings (Japanese only)
+- [hatena blog](https://tech.acesinc.co.jp/archive/author/akuzeee)
 - [zenn](https://zenn.dev/k99758)
-- Nikkei XTREND
-  - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
-  - 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
-  - 阿久澤圭．双方向の"対話"でタスクをこなす　人と協働するロボットの研究．日経XTREND．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
-- [Slides in paper reading club (Japanese Only)](slide-jp)
+- [Nikkei XTREND](https://xtrend.nikkei.com/authors/18/Akuzawa_Kei/?i_cid=nbpnxr_child)
+- [Slides in paper reading club](slide-jp)

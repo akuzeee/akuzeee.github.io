@@ -87,8 +87,5 @@ title: 阿久澤圭のHP
 ### 書き物
 - [はてな](https://tech.acesinc.co.jp/archive/author/akuzeee)
 - [zenn](https://zenn.dev/k99758)
-- 日経XTREND
-  - 阿久澤圭．学習データ不足への対処へ　ドメイン適応を用いた知識の転移. 日経XTREND．2018年10月18日． \[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00012/)\]
-  - 阿久澤圭．「ロボットに声で家事を指示するには？」深層・強化学習の最前線．日経XTREND．2021年01月21日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00030/)\]
-  - 阿久澤圭．双方向の"対話"でタスクをこなす　人と協働するロボットの研究．2021年11月30日．\[[リンク](https://xtrend.nikkei.com/atcl/contents/technology/00007/00040/)\]
+- [日経XTREND](https://xtrend.nikkei.com/authors/18/Akuzawa_Kei/?i_cid=nbpnxr_child)
 - [論文読み会発表資料](slide-jp)
