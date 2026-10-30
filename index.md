@@ -12,6 +12,8 @@ I'm passionate about deep learning and its applications.
 - 2017 B.A. (Economics) Department of Economics, University of Tokyo
 
 [LinkedIn](https://www.linkedin.com/in/kakuzawa/)
+[X (Twitter)](https://x.com/kei_akuzawa)
+
 
 ## Papers
 

@@ -12,6 +12,7 @@ title: 阿久澤圭のHP
 - 2017 東京大学 経済学部 経済学科 卒業
 
 [LinkedIn](https://www.linkedin.com/in/kakuzawa/)
+[X (Twitter)](https://x.com/kei_akuzawa)
 
 ## 論文
 
